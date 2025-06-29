@@ -611,10 +611,10 @@ scene.add(planet);
 
 // ---- TẠO CÁC VÒNG CHỮ QUAY QUANH HÀNH TINH ----
 const ringTexts = [
-  'Rohman',
-  "&",
-  "Sheira",
-  "10/10/2020",
+  'Shira',
+  "Azkadina",
+  "Shanum",
+  "20/03/2005",
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
 
